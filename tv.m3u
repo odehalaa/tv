@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="OSN Mezze HD" tvg-id="Aljazeera HD",Aljazeera HD
+udp://@239.195.2.121:4900
