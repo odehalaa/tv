@@ -1,0 +1,15 @@
+{
+   "headline": "IPTV CHAGAS",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "Canais"
+      },
+      {
+         "icon": "movie",
+         "label": "Lista",
+         "extensionLabel": "Default",
+         "data": "https://github.com/odehalaa/tv/blob/main/tv.m3u/IPTV.JSON"
+      }
+   ]
+}
